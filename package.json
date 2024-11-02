@@ -1,6 +1,6 @@
 {
-  "name": "mkdist",
-  "version": "1.6.0",
+  "name": "@teages/mkdist",
+  "version": "1.6.0-patch.251",
   "description": "Lightweight file-to-file transformer",
   "repository": "unjs/mkdist",
   "license": "MIT",
